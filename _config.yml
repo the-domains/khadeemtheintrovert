@@ -1,7 +1,7 @@
 name: Khadeemtheintrovert
 favicon: null
-layout_spectrum: 0.44616735680028796
-typography_spectrum: 0.9946364047937095
+layout_spectrum: 1
+typography_spectrum: 0.60833
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.9784010017756373
-  lightness: 0.46273933723568916
-  saturation: 0.8849521155934781
-  rhythmicContrast: 0.7971729973796755
+  brandStrength: 1
+  lightness: 0.875
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
